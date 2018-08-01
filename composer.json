@@ -1,0 +1,11 @@
+{
+    "name": "Weather plugin",
+    "description": "It creates a widget that add the weather to your wordpress website",
+    "license": "GPL2",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Weather\\": "Weather"
+        }
+    }
+}
